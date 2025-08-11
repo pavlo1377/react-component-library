@@ -10,7 +10,7 @@ Styled Components are used for efficient and scalable component styling.
 ## How to Run
 
 1. Clone the repository:  
-   `git clone <https://github.com/pavlo1377/react-component-library.git>`
+   `git clone https://github.com/pavlo1377/react-component-library.git`
 2. Install dependencies:  
    `npm install`
 3. Start Storybook:  
