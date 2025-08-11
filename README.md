@@ -100,3 +100,12 @@ Storybook UI
 ## Additional Features
 
 - ESLint and Prettier configured for code quality and consistency
+
+
+
+- Each component folder contains:
+  - `*.styles.ts` — styled-components definitions
+  - `*.tsx` — React component implementation
+  - `index.ts` — re-exporting component for easier imports
+
+This structure promotes modularity and scalability.
