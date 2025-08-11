@@ -10,7 +10,7 @@ Styled Components are used for efficient and scalable component styling.
 ## How to Run
 
 1. Clone the repository:  
-   `git clone <URL>`
+   `git clone <https://github.com/pavlo1377/react-component-library.git>`
 2. Install dependencies:  
    `npm install`
 3. Start Storybook:  
@@ -27,91 +27,75 @@ Styled Components are used for efficient and scalable component styling.
 
 ### Input
 
-Input  
+Input
 
-![Input](image-3.png)
+![Input](public/screenshots/image-3.png)
 
+Input Clearable
 
-Input Clearable  
+![Input Clearable](public/screenshots/image-4.png)
 
-![Input Clearable](image-4.png)
+Input Password Toggle
 
+![Input Password Toggle](public/screenshots/image-5.png)
 
-Input Password Toggle  
+Toggled Password
 
-![Input Password Toggle](image-5.png)
-
-
-Toggled Password  
-
-![Toggled Password](image-6.png)
-
+![Toggled Password](public/screenshots/image-6.png)
 
 ### Toast
 
-Toast  
+Toast
 
-![Toast](image-7.png)
+![Toast](public/screenshots/image-7.png)
 
+Toast Success
 
-Toast Success  
+![Toast Success](public/screenshots/image-8.png)
 
-![Toast Success](image-8.png)
+Toast Error
 
+![Toast Error](public/screenshots/image-9.png)
 
-Toast Error  
+Toast Warning
 
-![Toast Error](image-9.png)
+![Toast Warning](public/screenshots/image-10.png)
 
+Toast Info
 
-Toast Warning  
+![Toast Info](public/screenshots/image-11.png)
 
-![Toast Warning](image-10.png)
+Toast Not Closable
 
+![Toast Not Closable](public/screenshots/image-12.png)
 
-Toast Info  
+Toast Multiple
 
-![Toast Info](image-11.png)
-
-
-Toast Not Closable  
-
-![Toast Not Closable](image-12.png)
-
-
-Toast Multiple  
-
-![Toast Multiple](image-13.png)
-
+![Toast Multiple](public/screenshots/image-13.png)
 
 ### Sidebar Menu
 
-Sidebar  
+Sidebar
 
-![Sidebar](image-14.png)
+![Sidebar](public/screenshots/image-14.png)
 
+Sidebar Open State
 
-Sidebar Open State  
+![Sidebar Open State](public/screenshots/image-15.png)
 
-![Sidebar Open State](image-15.png)
+Sidebar One Level
 
+![Sidebar One Level](public/screenshots/image-16.png)
 
-Sidebar One Level  
+Sidebar Multiple Levels
 
-![Sidebar One Level](image-16.png)
-
-
-Sidebar Multiple Levels  
-
-![Sidebar Multiple Levels ](image-18.png)
-
+![Sidebar Multiple Levels](public/screenshots/image-18.png)
 
 ### Storybook UI
 
-Storybook UI  
+Storybook UI
 
-![Storybook UI](image.png)
-
+![Storybook UI](public/screenshots/image.png)
 
 ## Additional Features
 
